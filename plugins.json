@@ -5,6 +5,7 @@
 			"id": "tinymce",
 			"description": "Edit rich text, straight from Mavo!",
 			"tag": [
+				"1",
 				"Editing"
 			],
 			"author": "leaverou"
